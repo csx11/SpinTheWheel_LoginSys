@@ -49,7 +49,7 @@ Make sure you have the following installed:
 
 ---
 
-### 4️⃣ Run the PHP Project with XAMPP
+### Run the PHP Project with XAMPP
 
 
 1. Create a folder (e.g. your-project-folder)
